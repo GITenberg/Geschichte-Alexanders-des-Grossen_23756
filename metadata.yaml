@@ -1,0 +1,35 @@
+_repo: Geschichte-Alexanders-des-Grossen_23756
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Droysen, Johann Gustav
+    birthdate: 1808
+    deathdate: 1884
+    gutenberg_agent_id: '26016'
+    url: http://www.gutenberg.org/2009/agents/26016
+    wikipedia: http://de.wikipedia.org/wiki/Johann_Gustav_Droysen
+description: ''
+gutenberg_bookshelf:
+- DE Prosa
+- Greece
+- DE Sachbuch
+gutenberg_issued: '2007-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23756'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alexander, the Great, 356-323 B.C.'
+- !lcsh 'Greece -- History -- Macedonian Expansion, 359-323 B.C.'
+- !lcsh 'Generals -- Greece -- Biography'
+- !lcsh 'Statesmen -- Greece -- Biography'
+- !lcc 'CT'
+- !lcc 'DF'
+title: Geschichte Alexanders des Grossen
+url: http://www.gutenberg.org/ebooks/23756
